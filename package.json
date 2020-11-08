@@ -1,0 +1,15 @@
+{
+  "name": "dockerapp",
+  "version": "1.0.0",
+  "description": "first docker appication using docker container and images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dherendra dev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
